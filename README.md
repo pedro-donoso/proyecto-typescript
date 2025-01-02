@@ -4,7 +4,7 @@
 npm install -g typescript
 ```
 
-### 2. Creo archivo Typescript script.ts
+### 2. Creo archivo Typescript: script.ts
 
 ### 3. Desde terminal compilo a js
 
@@ -16,4 +16,8 @@ tsc script.ts
 
 ![tsc](https://github.com/user-attachments/assets/c4589876-6d72-4f05-bd38-207f590eba93)
 
+### 4. Modo observador (nombre de archivo)
 
+```
+tsc script.ts -w
+```
