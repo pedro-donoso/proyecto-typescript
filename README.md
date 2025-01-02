@@ -30,7 +30,11 @@ tsc -init
 
 #### Se crea el archivo de configuración: tsconfig.json
 
+#### 6. Observar varios archivos typescript a la vez:
 
+```
+tsc -w
+```
 
 
 
