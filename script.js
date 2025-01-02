@@ -1,2 +1,2 @@
-console.log('Hola mundo mi primer programa TS');
- 
+"use strict";
+console.log('Hola mundo mi primer programa TypeScript');
