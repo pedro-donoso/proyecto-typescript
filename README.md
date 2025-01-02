@@ -12,7 +12,7 @@ npm install -g typescript
 tsc script.ts
 ```
 
-### Se crea el archivo script.js desde script.ts
+#### Se crea el archivo script.js desde script.ts
 
 ![tsc](https://github.com/user-attachments/assets/c4589876-6d72-4f05-bd38-207f590eba93)
 
@@ -28,7 +28,7 @@ tsc script.ts -w
 tsc -init
 ```
 
-### Se crea el archivo de configuración: tsconfig.json
+#### Se crea el archivo de configuración: tsconfig.json
 
 
 
