@@ -21,3 +21,19 @@ tsc script.ts
 ```
 tsc script.ts -w
 ```
+
+### 5. Inicializo Typescript
+
+```
+tsc -init
+```
+
+### Se crea el archivo de configuración: tsconfig.json
+
+
+
+
+
+
+
+
