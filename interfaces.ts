@@ -20,4 +20,4 @@ function enviarCv(programador : Programadores) {
   console.log(`Este curriculum es de ${programador.nombre}`);
 }
 
-enviarCv(dev)
+enviarCv(dev2)
