@@ -1,3 +1,5 @@
+![capsula](https://github.com/user-attachments/assets/3a6d4726-bbe1-4e30-a322-9172212c2416)
+
 ### 1. Instalo Typescript:
 
 ```
@@ -35,6 +37,9 @@ tsc -init
 ```
 tsc -w
 ```
+#### Vista por consola:
+
+![consola](https://github.com/user-attachments/assets/c94b3c68-8200-4770-90d1-d644aafd2308)
 
 
 
