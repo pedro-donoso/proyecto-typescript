@@ -13,3 +13,6 @@ class Sorteo {
         return `Para ${this.nombre} el ticket es ${this.ticket}`;
     }
 }
+let sorteo = new Sorteo('Pedro');
+sorteo.setTicket(7);
+console.log(sorteo.sortear());

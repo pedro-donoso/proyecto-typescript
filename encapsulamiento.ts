@@ -1,5 +1,4 @@
 class Sorteo<T>{
-
   private ticket?: T;
 
   constructor(
@@ -19,3 +18,7 @@ class Sorteo<T>{
   }
 
 }
+
+let sorteo = new Sorteo<number>('Pedro')
+sorteo.setTicket(7)
+console.log(sorteo.sortear());
