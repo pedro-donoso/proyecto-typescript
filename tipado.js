@@ -4,4 +4,8 @@ let programador = {
     tecnologias: ['React', 'PHP', 'Java'],
     tomaCafe: true
 };
-console.log(programador);
+let programador2 = {
+    nombre: "Federico",
+    tecnologias: ['HTML', 'Cobol'],
+    tomaCafe: null
+};
